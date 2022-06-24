@@ -1,0 +1,9 @@
+yt-dlp
+requests
+tgcrypto
+pyrogram
+pytgcalls
+youtube_dl
+ffmpeg-python
+python-dotenv
+youtube_search_python
