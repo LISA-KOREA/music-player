@@ -1,0 +1,8 @@
+.env
+*.pyc
+*.raw
+*.log
+*.session
+*.session-journal
+unknown_errors.txt
+test.py
