@@ -1,7 +1,7 @@
 yt-dlp
 requests
 tgcrypto
-pyrogram==
+pyrogram==1.4.16
 pytgcalls==3.0.0.dev23
 youtube_dl
 ffmpeg-python
